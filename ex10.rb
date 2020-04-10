@@ -59,11 +59,20 @@ def boyut_hesapla(metin)
     return i
 end
 
-kare_genisligi=0
-
 print("->  Metin giriniz :\n")
 #gets.chomp tek satır şeklinde alınmasını sağlıyor
 metin = gets.chomp
+
+while true
+    print("\n->  Metin giriniz :\n")
+    metin = gets.chomp
+    if metin.length == 0
+        puts "metin girmediniz"
+        next
+    end
+    break
+end
+
 kare_genisligi = boyut_hesapla(metin)
 sifrelenmis_metin = sifrele(metin, kare_genisligi)
 orjinal_metin = coz(sifrelenmis_metin, kare_genisligi)
