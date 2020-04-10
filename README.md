@@ -1,4 +1,4 @@
-# Sifrelemeye_Giris
+# Sifrelemeye_Giris (RUBY Dili Kullanılmıştır)
 Şifrelemeye Giriş Dersi Uygulamaları
 -   ex1.rb  =>  10 defa merhaba yaz
 -   ex2.rb  =>  4 basamakli palindromik sayilari bulan program
