@@ -1,3 +1,4 @@
+#Sezar Kare Şifrelemesi
 def sifrele(metin, kare_genisligi)
     metin = metin + "#"*(kare_genisligi - (metin.length)%kare_genisligi)
     sifrelenmis_metin = ""
