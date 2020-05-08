@@ -11,4 +11,4 @@
 -   ex9.rb  =>  Tek alfabeli yerine yerleştirme kriptolama algoritması
 -   ex10.rb  =>  Sezar Kare Şifrelemesi
 -   ex10_1.rb  =>  Sezar Kare Şifrelemesi (Alternatif Yöntem)
--   ex12.rb  =>  ADFCGX Şifrelemesi
+-   ex12.rb  =>  ADFGVX Şifrelemesi
