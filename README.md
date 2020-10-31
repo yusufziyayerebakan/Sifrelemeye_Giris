@@ -1,4 +1,4 @@
-# Sifrelemeye_Giris (RUBY Dili Kullanılmıştır)
+# Şifrelemeye Giriş (RUBY Dili Kullanılmıştır)
 Şifrelemeye Giriş Dersi Uygulamaları
 
 -   // Ruby Alistirma //
